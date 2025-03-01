@@ -32,4 +32,4 @@ cd zdc
 
 bash setup && bash jiban
 
-password 🔑    kala      👈
+password obbtool 

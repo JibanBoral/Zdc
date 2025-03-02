@@ -35,4 +35,5 @@ cd zdc
 
 bash setup && bash jiban
 
-password DM-:- @KALA_HACKER.      @JIBANBOEAL
+password DM-:- @KALA_HACKER.      
+@jibanboral

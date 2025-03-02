@@ -35,4 +35,4 @@ cd zdc
 
 bash setup && bash jiban
 
-password obbtool 
+password DM-:- @KALA_HACKER.      @JIBANBOEAL

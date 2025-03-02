@@ -10,11 +10,14 @@ pkg install
 
 pkg search
 
+
 apt update 
 
 apt upgrade 
  
 pkg install git
+
+git clone https://github.com/JibanBoral/Zdc
 
 pkg install python
  
